@@ -1,9 +1,11 @@
 # emotiguy-archive
-Joe Bot reboot (originally by Bracket the Proto#0797) 
+Joe Bot Reboot (originally by Bracket the Proto#0797) 
 by trit#6076
+
 I will be hosting the bots code here in case I am unable to host the bot myself. 
 I will also be hosting most images used here. Enjoy! :)
-Special Thanks to:
+
+Special Thanks to: 
 
 GioPotatoes#5013
 ali, kirb#1223
