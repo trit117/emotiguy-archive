@@ -12,6 +12,9 @@ ali, kirb#1223
 Brooen#0001
 And all emotiguy creators, enthusiasts, and lovers alike
 
+Bot Invite:
+https://discord.com/oauth2/authorize?client_id=743871496434221126&permissions=1133584&scope=bot
+
 Emotiguy Archive:
 https://mega.nz/folder/j4FElbBb#eqVf2yzAwTIReEMlw6CiNA
 
