@@ -7,10 +7,8 @@ I will also be hosting most images used here. Enjoy! :)
 
 Special Thanks to: 
 
-GioPotatoes#5013
-ali, kirb#1223
-Brooen#0001
-Charles West
+GioPotatoes#5013, ali, kirb#1223, Brooen#0001, Charles West
+
 And all emotiguy creators, enthusiasts, and lovers alike
 
 Bot Invite: 
